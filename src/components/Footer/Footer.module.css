@@ -1,0 +1,27 @@
+
+footer {
+    color: violet;
+    text-align: center;
+    margin-top: 330px;
+    background-color: gainsboro;
+  }
+  
+  .social_list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+  }
+
+  h1{
+    margin-right: 20px;
+    font-size: 40px;
+    color: rgb(219, 149, 216);
+    text-decoration: none;
+    text-align: center;
+    margin-top: space-between;
+  }
+
+  
+
+  
+  
